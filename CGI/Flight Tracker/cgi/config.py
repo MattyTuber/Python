@@ -1,0 +1,2 @@
+API_KEY = "GAFEy8Ht18oCCfyxrW6xifhsTAyGH8kI"
+SERP_API = "18dd95a8eb4ab0b7fcb61390a5ccb1ac963eff7f3b5335d2ee1c3d66119230ca"

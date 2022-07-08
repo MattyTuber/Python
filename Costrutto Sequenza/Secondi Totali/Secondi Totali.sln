@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Secondi Totali", "Secondi Totali.pyproj", "{2E814B64-7FFA-4764-9CC7-5F51E3E28570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E814B64-7FFA-4764-9CC7-5F51E3E28570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E814B64-7FFA-4764-9CC7-5F51E3E28570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C322A5E0-668B-4FBF-B19F-E7B7A0EDE0FE}
+	EndGlobalSection
+EndGlobal
